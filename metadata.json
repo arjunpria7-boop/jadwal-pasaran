@@ -1,0 +1,5 @@
+{
+  "name": "Jadwal Pasaran",
+  "description": "Aplikasi web untuk menampilkan jadwal pasaran dengan waktu tutup dan result. Nilai result dapat diedit secara langsung di dalam tabel.",
+  "requestFramePermissions": []
+}
